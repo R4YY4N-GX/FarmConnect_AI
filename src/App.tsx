@@ -439,8 +439,8 @@ export default function App() {
   const [otpCode, setOtpCode] = useState("");
   const [isOtpSent, setIsOtpSent] = useState(false);
   const [isGuest, setIsGuest] = useState(false);
-  const [userName, setUserName] = useState("Rajesh Kumar");
-  const [userState, setUserState] = useState("Amritsar, Punjab");
+  const [userName, setUserName] = useState("Rayyan Ahsan");
+  const [userState, setUserState] = useState("Pacific World School");
 
   // App data state
   const [cropPrices, setCropPrices] = useState<CropPrice[]>([]);
