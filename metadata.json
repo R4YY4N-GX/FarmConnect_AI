@@ -1,0 +1,11 @@
+{
+  "name": "FarmConnect AI",
+  "description": "An extremely simple, voice-guided assistant and crop price portal designed specifically for Indian farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
